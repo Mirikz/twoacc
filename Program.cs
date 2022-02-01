@@ -24,3 +24,6 @@ Console.WriteLine(a+b);
 void minus(double a, double b){
 Console.WriteLine(a-b);
 }
+void multi(double a, double b){
+Console.WriteLine(a*b);
+}
