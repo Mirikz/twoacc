@@ -28,5 +28,5 @@ void multi(double a, double b){
 Console.WriteLine(a*b);
 }
 void division(double a, double b){
-Console.WriteLine(a*b);
+Console.WriteLine(a/b);
 }
